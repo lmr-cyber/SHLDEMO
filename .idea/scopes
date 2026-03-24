@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <scope name="Java-File" pattern="file:*.java&amp;&amp;!file:.mvn/wrapper/*&amp;&amp;!file:.gradle/*&amp;&amp;!file:gradle/*" />
+    <scope name="JAVA" pattern="file:*.java&amp;&amp;!file:.mvn/wrapper/*&amp;&amp;!file:.gradle/*&amp;&amp;!file:gradle/*" />
+  </component>
+</project>

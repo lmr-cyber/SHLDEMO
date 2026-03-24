@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn clean:*)",
+      "Bash(java -cp target/classes demo.shl.exam.bfs.Solution)",
+      "Bash(mvn compile:*)",
+      "Bash(java -cp target/classes Solution)",
+      "Bash(java -cp:*)"
+    ]
+  }
+}

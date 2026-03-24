@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BFS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BFS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Brute-Force/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Brute-Force/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS-Tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS-Tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DFS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DP-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DP-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DP-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DP-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Even-Odd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Even-Odd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/F-V/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/F-V/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fast-Exp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fast-Exp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fast-Selection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fast-Selection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HashSet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HashSet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heap-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heap-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Linear-Scan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Linear-Scan/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Number-Traversal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Number-Traversal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Queue-FIFO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Queue-FIFO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sliding-Window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sliding-Window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Soft-K/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Soft-K/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sort-Interval/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sort-Interval/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Counting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Counting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Summation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Summation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Swap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal-Swap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Traversal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
