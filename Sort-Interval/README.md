@@ -7,6 +7,7 @@ Once submitted, you cannot review this problem again. You can use system.out.pri
 The version of Java 21 being used is 21.0.4.
 
 ---
+
 ### Input
 - The first line of the input consists of an integer size, representing the size of the given list (N).
 - The second line consists of N space-separated integers arr0, arr1...arrN, representing the elements of input list.

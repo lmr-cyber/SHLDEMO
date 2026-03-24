@@ -5,6 +5,7 @@ The current selected programming language is Java. We emphasize the submission o
 Once submitted, you cannot review this problem again. You can use System.out.println() to debug your code. The System.out.println() may not work in case of syntax/runtime error. 
 The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
+
 ---
 
 Given a binary string S consisting of only 0s and 1s, write an algorithm to find the number of different ways to get the longest consecutive sub-segment of 1s only. 
@@ -20,6 +21,7 @@ Print an integer representing the number of different ways possible to get the l
 ### Constraints
 - 1 ≤ size of string ≤ 2*10⁵
 - 0 ≤ changeK ≤ size
+- 
 ### Example
 ```
 Input:

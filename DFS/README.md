@@ -4,7 +4,9 @@
 The current selected programming language is Java 11. We emphasize the submission of a fully working code over partially correct but efficient code. 
 Once submitted, you cannot review this problem again. You can use system.out.printin to debug your code. The system.out.printin() may not work in case of syntax/runtime error. 
 The version of Java 11 being used is 11.0.2.
+
 ---
+
 A University has invited N alumni for a dinner. The dinner table has a circular shape. Each alumnus is assigned an invitation ID from 0 to N-1. 
 Each alumnus likes exactly one fellow alumnus and will attend the dinner only if he/she can be seated next to the person he/she likes.
 

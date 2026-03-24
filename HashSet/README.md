@@ -4,6 +4,7 @@
 The current selected programming language is Java. We emphasize the submission of a fully working code over partially correct but efficient code. Once submitted, you cannot review this problem again. You can use System out printini to debug your code. The
 System. out printing may not work in case of syntax/runtime error. The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
+
 ---
 
 You are given two lists of different lengths of positive integers. Write an algorithm to count the number of elements that are not common to each list.

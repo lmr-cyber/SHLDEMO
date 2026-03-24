@@ -1,4 +1,5 @@
 # 枚举算法
+
 ## Question
 Martin's father is standing at X₁ meters away from their home. He walks at a constant speed of V₁ meters per step for N steps.
 Martin is standing at X₂ meters away from his home. He wonders how fast he must run at some constant speed of V₂ meters per step so as to maximize F, 

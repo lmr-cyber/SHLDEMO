@@ -6,6 +6,7 @@ Once submitted you cannot review this problem again. You can use System.out.prin
 The version of JDK being used is 1.8.
 
 Note: The main class name must be "Solution".
+
 ---
 
 In an organization, N employees with employee IDs from 1 to N, are working in different teams. Each employee shares a bond of great understanding with his/her fellow team members. 

@@ -1,11 +1,12 @@
 # 贪心策略结合数学推导
+
 ## Question
 The current selected programming language is java. We emphasize the submission of a fully working code over partially correct but efficient code.
 Once submitted, you cannot review this problem again. You can use System.out.printing to debug your code. The System.outprinting may not work in case of syntax/runtime error. 
 The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
----
 
+---
 
 Moche Goldberg is a traveling salesman. He works in N towns. Each day he sells his products in one of the towns. 
 The towns that are chosen on any two successive days should be different and a town I can be chosen at most ci times. 

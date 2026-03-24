@@ -8,12 +8,16 @@ The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
 
 ---
+
 You are given two strings containing only English letters. Write an algorithm to count the number of occurrences of the second string in the first string. (You may disregard the case of the letters.)
+
 ## Input
 - The first line of the input consists of a string parent, representing the first string.
 - The second line consists of a string sub, representing the second string.
+- 
 ## Output
-Print an integer representing the number of occurrences of sub in parent. If no occurrence of sub is found in parent, then print 0.
+Print an integer  representing the number of occurrences of sub in parent. If no occurrence of sub is found in parent, then print 0.
+
 ## Example
 ```
 Input:

@@ -4,6 +4,7 @@
 The current selected programming language is Java. We emphasize the submission of a fully working code over partially correct but efficient code. Once submitted, you cannot review this problem again. 
 You can use System.out.println() to debug your code. The System.out.println() may not work in case of syntax/runtime error. The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
+
 ---
 
 Sheldon is going to a book fair where all the books are star-rated. As he is interested in just two types of books, Horror and Sci-fi, so he would buy the books from these two categories only. 
@@ -17,9 +18,12 @@ Write an algorithm to help Sheldon buy the books from both the categories.
 - The next H lines consist of X space-separated integers - hrating and hprice, representing the star-rating and the price of each Horror book, respectively.
 - The next line consists of two space-separated integers - numSciFi and numS, representing the number of Sci-fi books (S) and the number of values given for every Sci-fi book (P is always equal to 2, respectively).
 - The last S lines consist of P space-separated integers - srating and sprice, representing the star-rating and the price of each Sci-fi book, respectively.
+
 ### Output
 Print an integer representing the total maximum star-rating of books bought by Sheldon. If he cannot buy at least one book from both the categories then print -1.
+
 ### Constraints
+
 ```
 1 ≤ numHorror ≤ 1000
 1 ≤ numSciFi ≤ 1000

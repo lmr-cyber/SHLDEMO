@@ -1,9 +1,11 @@
 # 快速幂算法 
+
 ## Question
 The current selected programming language is Java. We emphasize the submission of a fully working code over partially correct but efficient code. 
 Once submitted, you cannot review this problem again. You can use System.out.println() to debug your code. The System.out.println() may not work in case of syntax/runtime error. 
 The version of JDK being used is 1.8.
 Note: The main class name must be "Solution".
+
 ---
 
 Bob has to send a secret code S to his boss. He designs a method to encrypt the code using two key values N and M. The formula that he uses to develop the encrypted code is shown below:
