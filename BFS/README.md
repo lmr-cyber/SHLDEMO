@@ -17,8 +17,8 @@ string str1 into str2 by applying the following rules:
 Write an algorithm to help Emerson convert the binary string str 1 into str2, in the minimum number of steps.
 
 ### Input
-The first line of the input consists of a binary string - str1.
-The second line consists of a binary string - str2.
+- The first line of the input consists of a binary string - str1.
+- The second line consists of a binary string - str2.
 
 ### Output
 Print an integer representing the minimum number of steps required to convert str into str2. If there is no such way of conversion, then print "-1"
